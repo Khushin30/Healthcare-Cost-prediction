@@ -1,0 +1,1298 @@
+{
+    "Albany Memorial Hospital": [
+        42.6736875,
+        -73.7485902
+    ],
+    "Alice Hyde Medical Center": [
+        44.8568922,
+        -74.2909456
+    ],
+    "Albany Medical Center Hospital": [
+        42.6532131,
+        -73.7766789
+    ],
+    "Adirondack Medical Center-Saranac Lake Site": [
+        44.3229376,
+        -74.1222996
+    ],
+    "Albany Medical Center - South Clinical Campus": [
+        42.6406318,
+        -73.7577562
+    ],
+    "Auburn Community Hospital": [
+        42.9421847,
+        -76.5643525
+    ],
+    "Aurelia Osborn Fox Memorial Hospital": [
+        42.4577774,
+        -75.0519705
+    ],
+    "Bertrand Chaffee Hospital": [
+        42.5096164,
+        -78.658767
+    ],
+    "Buffalo General Medical Center": [
+        42.9006932,
+        -78.8675178
+    ],
+    "Corning Hospital": [
+        42.141026,
+        -77.0482563
+    ],
+    "Bon Secours Community Hospital": [
+        41.3673663,
+        -74.6809977
+    ],
+    "Blythedale Childrens Hospital": [
+        41.0747957,
+        -73.799763
+    ],
+    "Crouse Hospital": [
+        43.0412958,
+        -76.1388246
+    ],
+    "Bronx-Lebanon Hospital Center - Concourse Division": [
+        40.8434893,
+        -73.9105735
+    ],
+    "Degraff Memorial Hospital": [
+        43.0253293,
+        -78.8624812
+    ],
+    "Bronx-Lebanon Hospital Center - Fulton Division": [
+        40.8314156,
+        -73.9031729
+    ],
+    "Montefiore Nyack": [
+        41.1014165,
+        -73.9596045
+    ],
+    "Ellis Hospital": [
+        42.8028762,
+        -73.9292944
+    ],
+    "Brooks Memorial Hospital": [
+        42.4804185,
+        -79.3344729
+    ],
+    "Brookhaven Memorial Hospital Medical Center Inc": [
+        40.7802502,
+        -72.9764211
+    ],
+    "Brooklyn Hospital Center - Downtown Campus": [
+        40.6905444,
+        -73.9779328
+    ],
+    "Calvary Hospital Inc": [
+        40.8480023,
+        -73.8437819
+    ],
+    "Erie County Medical Center": [
+        42.8151682,
+        -78.7838052
+    ],
+    "Cayuga Medical Center at Ithaca": [
+        42.4692583,
+        -76.5374469
+    ],
+    "Chenango Memorial Hospital Inc": [
+        42.5413214,
+        -75.5259805
+    ],
+    "Claxton-Hepburn Medical Center": [
+        44.7074937,
+        -75.4611194
+    ],
+    "Clifton Springs Hospital and Clinic": [
+        42.9594322,
+        -77.1365792
+    ],
+    "F F Thompson Hospital": [
+        42.8763061,
+        -77.2904945
+    ],
+    "Glens Falls Hospital": [
+        43.3063845,
+        -73.6460107
+    ],
+    "Community Memorial Hospital Inc": [
+        42.7157048,
+        -78.8274766
+    ],
+    "Cortland Regional Medical Center Inc": [
+        42.593006,
+        -76.18786
+    ],
+    "Crouse Hospital - Commonwealth Division": [
+        43.0412958,
+        -76.1388246
+    ],
+    "Cuba Memorial Hospital Inc": [
+        42.2129395,
+        -78.28759
+    ],
+    "Gouverneur Hospital": [
+        44.3377926,
+        -75.4739033
+    ],
+    "Eastern Niagara Hospital - Lockport Division": [
+        43.1175355,
+        -78.6973236
+    ],
+    "Harlem Hospital Center": [
+        40.8147102,
+        -73.9392782
+    ],
+    "Ellis Hospital - Bellevue Woman's Care Center Division": [
+        42.8202132,
+        -73.9164609
+    ],
+    "Elmhurst Hospital Center": [
+        40.7447747,
+        -73.8856505
+    ],
+    "Highland Hospital": [
+        43.1355245,
+        -77.606251
+    ],
+    "Faxton-St Lukes Healthcare St Lukes Division": [
+        43.0980528,
+        -75.2789246
+    ],
+    "Flushing Hospital Medical Center": [
+        40.7553967,
+        -73.8165065
+    ],
+    "Geneva General Hospital": [
+        42.8774799,
+        -76.9882589
+    ],
+    "Good Samaritan Hospital of Suffern": [
+        41.1108491,
+        -74.1344493
+    ],
+    "Huntington Hospital": [
+        40.879446,
+        -73.4160808
+    ],
+    "HealthAlliance Hospital Broadway Campus": [
+        41.9267088,
+        -73.9951167
+    ],
+    "Massena Hospital": [
+        44.892467,
+        -75.0122765
+    ],
+    "Henry J. Carter Specialty Hospital": [
+        40.8030121,
+        -73.9410468
+    ],
+    "Jacobi Medical Center": [
+        40.8546253,
+        -73.8459143
+    ],
+    "Kenmore Mercy Hospital": [
+        42.9779556,
+        -78.8806824
+    ],
+    "Interfaith Medical Center": [
+        40.6785782,
+        -73.9374993
+    ],
+    "Kings County Hospital Center": [
+        40.6564684,
+        -73.9436745
+    ],
+    "Lenox Hill Hospital": [
+        40.7736428,
+        -73.9608619
+    ],
+    "Little Falls Hospital": [
+        43.1027729,
+        -74.7768032
+    ],
+    "Kingsbrook Jewish Medical Center": [
+        40.6598046,
+        -73.9332044
+    ],
+    "Saratoga Hospital": [
+        43.0881515,
+        -73.7907846
+    ],
+    "Lewis County General Hospital": [
+        43.7957066,
+        -75.4991791
+    ],
+    "Long Island Jewish Forest Hills": [
+        40.7186116,
+        -73.8353927
+    ],
+    "Lincoln Medical & Mental Health Center": [
+        40.7202068,
+        -73.843388
+    ],
+    "Mercy Medical Center": [
+        40.6885314,
+        -73.6330533
+    ],
+    "Long Island Jewish Valley Stream": [
+        40.6814928,
+        -73.6857812
+    ],
+    "Maimonides Medical Center": [
+        40.6394203,
+        -73.9981068
+    ],
+    "Mary Imogene Bassett Hospital": [
+        42.2682784,
+        -74.9165903
+    ],
+    "Massena Memorial Hospital": [
+        44.9361382,
+        -74.908869
+    ],
+    "Medina Memorial Hospital": [
+        43.223902,
+        -78.3976414
+    ],
+    "Memorial Hospital for Cancer and Allied Diseases": [
+        40.7644418,
+        -73.9569549
+    ],
+    "New York-Presbyterian/Queens": [
+        40.769691,
+        -73.8898377
+    ],
+    "Nyack Hospital": [
+        41.108618,
+        -73.9229811
+    ],
+    "Mercy Hospital of Buffalo": [
+        42.8479879,
+        -78.8131724
+    ],
+    "Mid-Hudson Valley Division of Westchester Medical Center": [
+        41.7186129,
+        -73.9272541
+    ],
+    "Millard Fillmore Suburban Hospital": [
+        42.9935177,
+        -78.7301553
+    ],
+    "Montefiore New Rochelle Hospital": [
+        40.9262813,
+        -73.8047421
+    ],
+    "Monroe Community Hospital": [
+        43.1130588,
+        -77.6180303
+    ],
+    "Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div": [
+        40.8800853,
+        -73.8798439
+    ],
+    "Montefiore Medical Center - Henry & Lucy Moses Div": [
+        40.8800853,
+        -73.8798439
+    ],
+    "Montefiore Medical Center-Wakefield Hospital": [
+        40.8908001,
+        -73.8585928
+    ],
+    "NYU Langone Hospital-Brooklyn": [
+        40.6684203,
+        -73.9867356
+    ],
+    "NYU Winthrop Hospital": [
+        40.8828615,
+        -73.6365471
+    ],
+    "Montefiore Mount Vernon Hospital": [
+        40.9126916,
+        -73.8402456
+    ],
+    "O'Connor Hospital": [
+        42.2682784,
+        -74.9165903
+    ],
+    "Moses-Ludington Hospital": [
+        43.849238,
+        -73.437524
+    ],
+    "Olean General Hospital": [
+        42.0903178,
+        -78.427945
+    ],
+    "Oneida Healthcare": [
+        43.0757689,
+        -75.7047353
+    ],
+    "Mount Sinai Hospital - Mount Sinai Hospital of Queens": [
+        40.7191275,
+        -73.8380098
+    ],
+    "Mount Sinai St. Luke's": [
+        40.8052373,
+        -73.9613875
+    ],
+    "Mount St Marys Hospital and Health Center": [
+        43.0936348,
+        -79.0569485
+    ],
+    "Nassau University Medical Center": [
+        40.7261484,
+        -73.5537201
+    ],
+    "Nathan Littauer Hospital": [
+        43.0560837,
+        -74.3536118
+    ],
+    "New York Community Hospital of Brooklyn, Inc": [
+        40.6244241,
+        -74.0043123
+    ],
+    "New York Presbyterian Hospital - Allen Hospital": [
+        40.8399396,
+        -73.9374372
+    ],
+    "Oswego Hospital": [
+        43.4538321,
+        -76.5164814
+    ],
+    "New York Presbyterian Hospital - Columbia Presbyterian Center": [
+        40.8414043,
+        -73.9428366
+    ],
+    "New York-Presbyterian Brooklyn Methodist Hospital": [
+        40.6678376,
+        -73.9791449
+    ],
+    "Peconic Bay Medical Center": [
+        40.9343042,
+        -72.6739202
+    ],
+    "New York Presbyterian Hospital - New York Weill Cornell Center": [
+        40.7647523,
+        -73.9549121
+    ],
+    "North Central Bronx Hospital": [
+        41.0262306,
+        -73.7953411
+    ],
+    "Putnam Hospital Center": [
+        41.3841463,
+        -73.6631596
+    ],
+    "Queens Hospital Center": [
+        40.6964621,
+        -73.790097
+    ],
+    "New York-Presbyterian/Lawrence Hospital": [
+        40.9420843,
+        -73.8368414
+    ],
+    "Samaritan Medical Center": [
+        43.9584859,
+        -75.9149211
+    ],
+    "New York-Presbyterian/Lower Manhattan Hospital": [
+        40.7102904,
+        -74.0049373
+    ],
+    "Newark-Wayne Community Hospital": [
+        43.060676,
+        -77.1017653
+    ],
+    "Niagara Falls Memorial Medical Center": [
+        43.0931576,
+        -79.0500517
+    ],
+    "NewYork-Presbyterian/Hudson Valley Hospital": [
+        41.2926975,
+        -73.8931586
+    ],
+    "Nicholas H Noyes Memorial Hospital": [
+        42.5525959,
+        -77.6984412
+    ],
+    "Sisters of Charity Hospital": [
+        42.9128039,
+        -78.7844559
+    ],
+    "SJRH - St Johns Division": [
+        40.9689291,
+        -73.8865891
+    ],
+    "Northern Dutchess Hospital": [
+        41.9355254,
+        -73.9129177
+    ],
+    "NYU Langone Hospitals": [
+        40.7908122,
+        -73.6543812
+    ],
+    "NYU Langone Orthopedic Hospital": [
+        40.9206982,
+        -73.8087586
+    ],
+    "Schuyler Hospital": [
+        42.3526927,
+        -76.8606957
+    ],
+    "Orange Regional Medical Center": [
+        41.442744,
+        -74.409953
+    ],
+    "Our Lady of Lourdes Memorial Hospital Inc": [
+        42.1688512,
+        -75.8860712
+    ],
+    "St. Joseph's Hospital": [
+        42.0913037,
+        -76.7974691
+    ],
+    "St. Mary's Healthcare": [
+        42.9998181,
+        -74.687922
+    ],
+    "Plainview Hospital": [
+        40.7750719,
+        -73.4788221
+    ],
+    "Strong Memorial Hospital": [
+        43.1229299,
+        -77.6253832
+    ],
+    "Richmond University Medical Center": [
+        40.6361272,
+        -74.1055112
+    ],
+    "River Hospital, Inc.": [
+        44.3376613,
+        -75.9202137
+    ],
+    "Rome Memorial Hospital, Inc": [
+        43.2295456,
+        -75.4424389
+    ],
+    "RUMC-Bayley Seton": [
+        40.5870764,
+        -74.0912544
+    ],
+    "Syosset Hospital": [
+        40.8045671,
+        -73.502015
+    ],
+    "SJRH - Dobbs Ferry Pavillion": [
+        41.0141516,
+        -73.8620502
+    ],
+    "SJRH - Park Care Pavilion": [
+        40.9401435,
+        -73.8914936
+    ],
+    "Soldiers and Sailors Memorial Hospital of Yates County Inc": [
+        42.6624969,
+        -77.0491426
+    ],
+    "South Nassau Communities Hospital": [
+        40.6553466,
+        -73.6096618
+    ],
+    "Southside Hospital": [
+        40.7260332,
+        -73.2417981
+    ],
+    "St. James Hospital": [
+        42.356559,
+        -77.6636904
+    ],
+    "St Elizabeth Medical Center": [
+        43.0823195,
+        -75.2662741
+    ],
+    "St Francis Hospital": [
+        40.8045548,
+        -73.6701838
+    ],
+    "University Hospital of Brooklyn": [
+        40.6555499,
+        -73.9437341
+    ],
+    "UPMC Chautauqua at WCA": [
+        42.0912373,
+        -79.231924
+    ],
+    "St Charles Hospital": [
+        40.9461302,
+        -73.0609682
+    ],
+    "Vassar Brothers Medical Center": [
+        41.6936055,
+        -73.9348169
+    ],
+    "St James Mercy Hospital": [
+        42.347705,
+        -77.663478
+    ],
+    "St Luke's Cornwall Hospital/Newburgh": [
+        41.601167,
+        -74.073594
+    ],
+    "St. Joseph Hospital": [
+        42.9128039,
+        -78.7844559
+    ],
+    "St. Mary's Hospital": [
+        42.9540011,
+        -74.2156376
+    ],
+    "St. Mary's Healthcare - Amsterdam Memorial Campus": [
+        42.9536516,
+        -74.2163452
+    ],
+    "Staten Island University Hosp-North": [
+        40.5854379,
+        -74.0847637
+    ],
+    "Staten Island University Hosp-South": [
+        40.5870331,
+        -74.0927686
+    ],
+    "Sunnyview Hospital and Rehabilitation Center": [
+        42.8213249,
+        -73.9146037
+    ],
+    "The Burdett Care Center": [
+        42.7335638,
+        -73.6725118
+    ],
+    "The Unity Hospital of Rochester": [
+        43.1899924,
+        -77.7049121
+    ],
+    "The Unity Hospital of Rochester-St Marys Campus": [
+        43.1867905,
+        -77.5841982
+    ],
+    "United Health Services Hospitals Inc. - Binghamton General Hospital": [
+        42.1363893,
+        -75.8961138
+    ],
+    "United Health Services Hospitals Inc. - Wilson Medical Center": [
+        42.1117673,
+        -75.946497
+    ],
+    "University Hospital": [
+        43.1699945,
+        -76.338928
+    ],
+    "United Memorial Medical Center North Street Campus": [
+        43.0040021,
+        -78.1782717
+    ],
+    "United Memorial Medical Center Bank Street Campus": [
+        43.0005795,
+        -78.1812202
+    ],
+    "University Hospital - Stony Brook Southampton Hospital": [
+        40.8656362,
+        -72.4034784
+    ],
+    "University Hospital SUNY Health Science Center": [
+        43.0408184,
+        -76.1391437
+    ],
+    "St. Charles Hospital": [
+        40.7671651,
+        -73.4249225
+    ],
+    "UPSTATE University Hospital at Community General": [
+        42.9977753,
+        -76.1429083
+    ],
+    "Westfield Memorial Hospital Inc": [
+        42.3316733,
+        -79.5874183
+    ],
+    "Wyoming County Community Hospital": [
+        42.7396681,
+        -78.1324665
+    ],
+    "Winifred Masterson Burke Rehabilitation Hospital": [
+        41.0163728,
+        -73.7509618
+    ],
+    "Woodhull Medical & Mental Health Center": [
+        40.6993356,
+        -73.9427471
+    ],
+    "South Shore University Hospital": [
+        40.7260332,
+        -73.2417981
+    ],
+    "BronxCare Hospital Center": [
+        40.8314156,
+        -73.9031729
+    ],
+    "Eastern Niagara Hospital - Newfane Division": [
+        43.24775,
+        -78.6908333
+    ],
+    "St. Joseph's Medical Center": [
+        41.0322988,
+        -73.969138
+    ],
+    "Phelps Hospital": [
+        41.1750764,
+        -73.846824
+    ],
+    "SUNY Downstate Medical Center at LICH": [
+        40.6553702,
+        -73.9450773
+    ],
+    "Faxton Medical Campus": [
+        43.0980528,
+        -75.2789246
+    ],
+    "Lakeside Memorial Hospital": [
+        42.4691725,
+        -79.3263818
+    ],
+    "Mount Sinai Morningside": [
+        40.8154378,
+        -73.9588159
+    ],
+    "Coler-Goldwater Specialty Hospital & Nursing Facility - Coler Hospital Site": [
+        40.7586767,
+        -73.9526842
+    ],
+    "Institute of Rehab Medicine NYU Medical Center": [
+        40.743651,
+        -73.973421
+    ],
+    "Long Beach Medical Center": [
+        40.5945694,
+        -73.6518111
+    ],
+    "Millard Fillmore Hospital": [
+        42.9195228,
+        -78.8679218
+    ],
+    "Montefiore Medical Center - Montefiore Westchester Square": [
+        40.836801,
+        -73.8463855
+    ],
+    "NYU Hospitals Center": [
+        40.6401793,
+        -74.0122654
+    ],
+    "Peninsula Hospital Center": [
+        40.6027203,
+        -73.7582751
+    ],
+    "Sheehan Memorial Hospital": [
+        42.8833408,
+        -78.8658132
+    ],
+    "Southampton Hospital": [
+        40.8891196,
+        -72.4833491
+    ],
+    "Woman's Christian Association": [
+        42.0912373,
+        -79.231924
+    ],
+    "Forest Hills Hospital": [
+        40.7289488,
+        -73.8501404
+    ],
+    "Mercy Hospital": [
+        42.8479879,
+        -78.8131724
+    ],
+    "Lutheran Medical Center": [
+        40.6507853,
+        -73.9451399
+    ],
+    "Mount Sinai Beth Israel Brooklyn": [
+        40.6699462,
+        -73.9743063
+    ],
+    "Mount Sinai Roosevelt": [
+        40.7872368,
+        -73.9560467
+    ],
+    "Oneida Health Hospital": [
+        43.107759,
+        -75.220663
+    ],
+    "Benedictine Hospital": [
+        41.9211521,
+        -73.999681
+    ],
+    "Beth Israel Med Center-Kings Hwy Div": [
+        40.6186724,
+        -73.9429743
+    ],
+    "Champlain Valley Physicians Hospital Medical Center": [
+        44.7008404,
+        -73.4691462
+    ],
+    "Coler-Goldwater Spec Hosp&Nurs Fac - Goldwater Hospital Site": [
+        40.7704048,
+        -73.9421309
+    ],
+    "Edward John Noble Hospital of Gouverneur": [
+        44.3377926,
+        -75.4739033
+    ],
+    "St Barnabas Hospital": [
+        40.8160695,
+        -73.9176365
+    ],
+    "Faxton-St Lukes Healthcare Faxton Division": [
+        43.0920119,
+        -75.2510416
+    ],
+    "Kingston Hospital": [
+        41.9267088,
+        -73.9951167
+    ],
+    "Hudson Valley Hospital Center": [
+        41.2926975,
+        -73.8931586
+    ],
+    "Long Island Jewish Schneiders Children's Hospital Division": [
+        40.7543321,
+        -73.7088257
+    ],
+    "NYU Langone Hospital-Long Island": [
+        40.7123354,
+        -73.5798225
+    ],
+    "Montefiore Medical Center - North Division": [
+        40.8801181,
+        -73.8786595
+    ],
+    "Mount Vernon Hospital": [
+        40.9126916,
+        -73.8402456
+    ],
+    "New York Hospital Medical Center   of Queens": [
+        40.7472567,
+        -73.8251866
+    ],
+    "New York Presbyterian Hospital - Downtown Division": [
+        40.8555577,
+        -73.9381182
+    ],
+    "Oneida Healthcare Center": [
+        43.0774107,
+        -75.6547896
+    ],
+    "Seton Health System-St Mary's Campus": [
+        42.7429071,
+        -73.6765015
+    ],
+    "Sound Shore Medical Center of Westchester": [
+        40.9131436,
+        -73.7880593
+    ],
+    "St Francis Hospital - St Francis Hospital Beacon Div": [
+        41.5109647,
+        -73.9575171
+    ],
+    "St Lukes Roosevelt Hospital - St Lukes Hospital Division": [
+        40.8052373,
+        -73.9613875
+    ],
+    "St Lukes Roosevelt Hospital Center - Roosevelt Hospital Division": [
+        40.7700423,
+        -73.9869789
+    ],
+    "F.F. Thompson Hospital": [
+        42.8763061,
+        -77.2904945
+    ],
+    "Garnet Health Medical Center": [
+        41.4423094,
+        -74.3683176
+    ],
+    "North General Hospital": [
+        40.8034022,
+        -73.9420737
+    ],
+    "Mount Sinai South Nassau": [
+        40.6537806,
+        -73.6300568
+    ],
+    "TLC Health Network Tri-County Memorial Hospital": [
+        42.4804185,
+        -79.3344729
+    ],
+    "Our Lady of Lourdes Memorial Hospital": [
+        42.091419,
+        -75.9368732
+    ],
+    "John R. Oishei Children's Hospital": [
+        42.9008084,
+        -78.8677721
+    ],
+    "Montefiore Nyack Hospital": [
+        41.095892,
+        -73.9263346
+    ],
+    "Brooks-TLC Hospital System, Inc.": [
+        42.4804185,
+        -79.3344729
+    ],
+    "The University of Vermont Health Network-Elizabethtown Community Hospital Moses Ludington": [
+        44.2191423,
+        -73.5866209
+    ],
+    "Lakeview Center for Mental Health and Wellness": [
+        43.4614377,
+        -76.5077822
+    ],
+    "Guthrie Cortland Medical Center": [
+        42.6088662,
+        -76.1875895
+    ],
+    "Sisters of Charity Hospital - St. Joseph Campus": [
+        42.9128039,
+        -78.7844559
+    ],
+    "Nicholas H. Noyes Memorial Hospital": [
+        42.5525959,
+        -77.6984412
+    ],
+    "Unity Specialty Hospital": [
+        43.148488,
+        -77.6368381
+    ],
+    "St. Francis Hospital & Heart Center": [
+        40.8045548,
+        -73.6701838
+    ],
+    "Mount St. Mary's Hospital and Health Center": [
+        43.1540721,
+        -79.0325315
+    ],
+    "St. Joseph's Hospital Health Center": [
+        43.1209402,
+        -76.1658728
+    ],
+    "A.O. Fox Memorial Hospital": [
+        42.4577774,
+        -75.0519705
+    ],
+    "Samaritan Hospital - St. Mary's Campus": [
+        42.7429071,
+        -73.6765015
+    ],
+    "Stony Brook Southampton Hospital": [
+        40.8850549,
+        -72.3803711
+    ],
+    "Stony Brook Eastern Long Island Hospital": [
+        41.1107619,
+        -72.3611203
+    ],
+    "Garnet Health Medical Center - Catskills - G. Hermann Site": [
+        41.4423094,
+        -74.3683176
+    ],
+    "New York - Presbyterian Hospital": [
+        40.8412814,
+        -73.9404616
+    ],
+    "St. Joseph's MC-St. Vincent's Westchester Division": [
+        40.9288274,
+        -73.8980152
+    ],
+    "Soldiers and Sailors Memorial Hospital of Yates County": [
+        42.663878,
+        -77.0585211
+    ],
+    "New York - Presbyterian Brooklyn Methodist Hospital": [
+        40.6678376,
+        -73.9791449
+    ],
+    "New York-Presbyterian Hospital - New York Weill Cornell Center": [
+        40.7647523,
+        -73.9549121
+    ],
+    "New York-Presbyterian Hospital - Columbia Presbyterian Center": [
+        40.8414043,
+        -73.9428366
+    ],
+    "New York - Presbyterian/Queens": [
+        40.769691,
+        -73.8898377
+    ],
+    "Staten Island University Hospital Prince's Bay": [
+        40.51982,
+        -74.1969486
+    ],
+    "David H. Koch Center For Cancer Care": [
+        40.7689946,
+        -73.9643514
+    ],
+    "Helen Hayes Hospital": [
+        41.2098301,
+        -73.9857513
+    ],
+    "Arnot Ogden Medical Center": [
+        42.0897965,
+        -76.8077338
+    ],
+    "Bellevue Hospital Center": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Canton-Potsdam Hospital": [
+        44.5956163,
+        -75.1690942
+    ],
+    "Coney Island Hospital": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Brookdale Hospital Medical Center": [
+        40.6526006,
+        -73.9497211
+    ],
+    "Carthage Area Hospital Inc": [
+        44.152159,
+        -75.321236
+    ],
+    "Catskill Regional Medical Center": [
+        41.6556465,
+        -74.6893282
+    ],
+    "Catskill Regional Medical Center - G. Hermann Site": [
+        41.7142564,
+        -74.726273
+    ],
+    "Clifton-Fine Hospital": [
+        44.1601506,
+        -75.034694
+    ],
+    "Cobleskill Regional Hospital": [
+        42.677853,
+        -74.4854172
+    ],
+    "Cohen Children's Medical Center": [
+        40.7308451,
+        -73.6805499
+    ],
+    "Columbia Memorial Hospital": [
+        42.2540699,
+        -73.7977798
+    ],
+    "Delaware Valley Hospital Inc": [
+        42.2781401,
+        -74.9159946
+    ],
+    "Eastern Long Island Hospital": [
+        41.1032958,
+        -72.3593093
+    ],
+    "Ellenville Regional Hospital": [
+        41.7170379,
+        -74.39571
+    ],
+    "Glen Cove Hospital": [
+        40.8641845,
+        -73.6319174
+    ],
+    "Good Samaritan Hospital Medical Center": [
+        40.7058564,
+        -73.3077301
+    ],
+    "HealthAlliance Hospital Mary's Avenue Campus": [
+        41.9287812,
+        -74.0023825
+    ],
+    "Hospital for Special Surgery": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Jamaica Hospital Medical Center": [
+        40.6994253,
+        -73.8309672
+    ],
+    "Ira Davenport Memorial Hospital Inc": [
+        42.3370164,
+        -77.3177577
+    ],
+    "John T Mather Memorial Hospital of Port Jefferson New York Inc": [
+        40.9465118,
+        -73.0691257
+    ],
+    "Long Island Jewish Medical Center": [
+        40.7308451,
+        -73.6805499
+    ],
+    "Margaretville Hospital": [
+        42.2839739,
+        -74.5648747
+    ],
+    "Mount Sinai Brooklyn": [
+        40.6526006,
+        -73.9497211
+    ],
+    "Mount Sinai Hospital": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Memorial Hosp of Wm F & Gertrude F Jones A/K/A Jones Memorial Hosp": [
+        42.1220125,
+        -77.9480575
+    ],
+    "Mount Sinai West": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Metropolitan Hospital Center": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Mount Sinai Beth Israel": [
+        40.7127281,
+        -74.0060152
+    ],
+    "New York Eye and Ear Infirmary of Mount Sinai": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Phelps Memorial Hospital Assn": [
+        41.085652,
+        -73.8584684
+    ],
+    "Rochester General Hospital": [
+        43.157285,
+        -77.615214
+    ],
+    "New York Presbyterian Hospital - Westchester Division": [
+        41.0339862,
+        -73.7629097
+    ],
+    "Samaritan Hospital": [
+        42.7284117,
+        -73.6917878
+    ],
+    "North Shore University Hospital": [
+        40.7956894,
+        -73.6989103
+    ],
+    "SBH Health System": [
+        40.8466508,
+        -73.8785937
+    ],
+    "St Peters Hospital": [
+        42.6511674,
+        -73.754968
+    ],
+    "Northern Westchester Hospital": [
+        41.2042616,
+        -73.7270761
+    ],
+    "Oswego Hospital - Alvin L Krakau Comm Mtl Health Center Div": [
+        43.4547284,
+        -76.5095967
+    ],
+    "Roswell Park Cancer Institute": [
+        42.8867166,
+        -78.8783922
+    ],
+    "Sisters of Charity Hospital - St Joseph Campus": [
+        42.8867166,
+        -78.8783922
+    ],
+    "St Anthony Community Hospital": [
+        41.256483,
+        -74.3598755
+    ],
+    "St Catherine of Siena Hospital": [
+        40.8559314,
+        -73.2006687
+    ],
+    "Westchester Medical Center": [
+        41.0748189,
+        -73.7751326
+    ],
+    "St Johns Episcopal Hospital So Shore": [
+        40.6053825,
+        -73.7551326
+    ],
+    "St Josephs Hospital Health Center": [
+        43.0481221,
+        -76.1474244
+    ],
+    "St Joseph's Medical Center": [
+        40.9312099,
+        -73.8987469
+    ],
+    "St Joseph's MC-St Vincents Westchester Division": [
+        40.8466508,
+        -73.8785937
+    ],
+    "St. Peter's Addiction Recovery Center": [
+        42.6511674,
+        -73.754968
+    ],
+    "Ira Davenport Memorial Hospital": [
+        42.3370164,
+        -77.3177577
+    ],
+    "Long Island Community Hospital": [
+        40.7618286,
+        -73.0157546
+    ],
+    "The University of Vermont Health Network - Elizabethtown Community Hospital": [
+        44.2162734,
+        -73.5908035
+    ],
+    "The University of Vermont Health Network - Champlain Valley Physicians Hospital": [
+        44.6960855,
+        -73.4542915
+    ],
+    "TLC Health Network Lake Shore Hospital": [
+        42.5675589,
+        -79.1128169
+    ],
+    "White Plains Hospital Center": [
+        41.0339862,
+        -73.7629097
+    ],
+    "Women And Children's Hospital Of Buffalo": [
+        42.8867166,
+        -78.8783922
+    ],
+    "Wyckoff Heights Medical Center": [
+        40.6526006,
+        -73.9497211
+    ],
+    "St James Mercy Hospital - Mercycare": [
+        42.3278477,
+        -77.6611025
+    ],
+    "Summit Park Hospital-Rockland County Infirmary": [
+        41.189153,
+        -74.054249
+    ],
+    "St. Peter's Hospital": [
+        42.6511674,
+        -73.754968
+    ],
+    "New York Methodist Hospital": [
+        40.6526006,
+        -73.9497211
+    ],
+    "NYU Lutheran Medical Center": [
+        40.6526006,
+        -73.9497211
+    ],
+    "NYU Hospital for Joint Diseases": [
+        40.7127281,
+        -74.0060152
+    ],
+    "St Josephs Hospital": [
+        43.106456,
+        -76.217705
+    ],
+    "Winthrop-University Hospital": [
+        40.7492678,
+        -73.6406845
+    ],
+    "Womans Christian Assoc Hospital - WCA Hosp at Jones Memorial Health Center": [
+        42.1220125,
+        -77.9480575
+    ],
+    "Franklin Hospital": [
+        40.6631362,
+        -73.7056955
+    ],
+    "Stony Brook University Hospital": [
+        40.9256538,
+        -73.140943
+    ],
+    "New York Hospital Medical Center of Queens": [
+        40.7654301,
+        -73.8174291
+    ],
+    "Orange Regional Medical Center-Middletown Campus": [
+        41.45011,
+        -74.4164807
+    ],
+    "Rockefeller University Hospital": [
+        40.7127281,
+        -74.0060152
+    ],
+    "St. Luke's Cornwall Hospital/Cornwall": [
+        41.434444,
+        -74.035833
+    ],
+    "The University of Vermont Health Network - Champlain Valley Physicians Hosp": [
+        44.6960855,
+        -73.4542915
+    ],
+    "Beth Israel Medical Center/Petrie Campus": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Elizabethtown Community Hospital": [
+        44.2162734,
+        -73.5908035
+    ],
+    "Lawrence Hospital Center": [
+        40.9880495,
+        -73.7974133
+    ],
+    "Montefiore - NY West Square Division": [
+        40.8466508,
+        -73.8785937
+    ],
+    "Mount Sinai Hospital - Queens Division": [
+        40.7455316,
+        -73.9484995
+    ],
+    "NY Eye and Ear Infirmary": [
+        40.7127281,
+        -74.0060152
+    ],
+    "SVCMC-St Vincents Manhattan": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Upstate Univ Hosp at Comm Gen": [
+        43.0481221,
+        -76.1474244
+    ],
+    "New York-Presbyterian Hospital": [
+        40.7127281,
+        -74.0060152
+    ],
+    "Putnam Hospital": [
+        41.4266361,
+        -73.6788272
+    ],
+    "The University of Vermont Health Network - Alice Hyde Medical Center": [
+        44.84881,
+        -74.295044
+    ],
+    "Garnet Health Medical Center - Catskills": [
+        41.7142564,
+        -74.726273
+    ],
+    "New York-Presbyterian Westchester Behavioral Health Center": [
+        41.0339862,
+        -73.7629097
+    ],
+    "Blythedale Children's Hospital": [
+        41.0748189,
+        -73.7751326
+    ]
+}
